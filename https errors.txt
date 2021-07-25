@@ -1,0 +1,17 @@
+200: Request is succeeded
+204: no content 
+206: partial content 
+301: moved permanently 
+304: not modified 
+401: unauthorized 
+400: bad request 
+403: forbidden 
+404: not found
+408: request time out
+413: load too large
+414: url is too longer
+415: media not supported
+429: too many request
+500: internal server error
+503: Service Unavailable
+511: Network Authentication Required
