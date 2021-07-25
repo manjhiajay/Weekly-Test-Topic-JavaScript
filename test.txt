@@ -1,0 +1,9 @@
+Weekly Test: Topic JavaScript
+Time: 5 hours
+.......................
+Coding:
+1. What is JavaScrip hoisting, what are the use cases? Write an example program for the same.
+2.  Write a JS program that
+   2.1. has 2 functions. (1) showPopup() and (b) showNotification()
+   2.2. showNotification() shows a bootstrap alert message "Andrew liked your picture." after 3 seconds from page is loaded.
+   2.3. showPopup() should show a bootstrap modal asking user email after 15 seconds from "Andrew's like alert is shown".
